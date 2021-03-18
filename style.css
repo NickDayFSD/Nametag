@@ -101,8 +101,8 @@ section .colorButton {
     font-size: 12px;
 }
 
-.black {
-    background-color: black;
+.red {
+    background-color: red;
     border-radius: 5px;
     color: white;
     padding: 15px 32px;
