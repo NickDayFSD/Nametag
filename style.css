@@ -57,11 +57,11 @@ main {
     display: flex;
 }
 
-button {
-    background-color: red; /* Green */
+button{
+    background-color: red;
     border-radius: 5px;
     color: white;
-    padding: 15px 32px;
+    padding: 12px 32px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -74,3 +74,40 @@ input {
     margin: 8px 0;
     box-sizing: border-box;
   }
+
+section .colorButton {
+    display: flex;
+}
+
+.blue {
+    background-color: blue;
+    border-radius: 5px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+}
+
+.green {
+    background-color: green;
+    border-radius: 5px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+}
+
+.black {
+    background-color: black;
+    border-radius: 5px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+}
